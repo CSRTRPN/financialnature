@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Financial Analyst for Startups</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+            text-align: center;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .interests {
+            margin-top: 20px;
+        }
+        .interests ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .interests ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Your Name</h1>
+        <h2>Financial Analyst for Startups</h2>
+        <p>Welcome to my personal webpage! I'm passionate about finance and dedicated to helping startups thrive.</p>
+        <p>In my free time, I enjoy exploring nature and embracing its beauty.</p>
+        <div class="interests">
+            <h3>Interests</h3>
+            <ul>
+                <li>Financial analysis and modeling</li>
+                <li>Startup ecosystem</li>
+                <li>Exploring nature</li>
+                <!-- Add more interests as needed -->
+            </ul>
+        </div>
+        <p>Feel free to reach out to me at your.email@example.com for any inquiries or opportunities.</p>
+    </div>
+</body>
+</html>
